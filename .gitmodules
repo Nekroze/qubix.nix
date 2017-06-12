@@ -1,0 +1,6 @@
+[submodule "xpra.nix"]
+	path = xpra.nix
+	url = https://github.com/Nekroze/xpra.nix
+[submodule "kvms.nix"]
+	path = kvms.nix
+	url = https://github.com/Nekroze/kvms.nix
